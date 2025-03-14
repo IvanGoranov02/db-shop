@@ -1,0 +1,227 @@
+[
+  {
+    "partNumber": "FIL-001",
+    "name": "Маслен филтър",
+    "category": "Филтри",
+    "manufacturer": "Bosch",
+    "price": 15.99,
+    "compatibleCars": ["BMW", "Mercedes", "Audi"],
+    "stockQuantity": 45,
+    "location": "A1-12",
+    "specifications": {
+      "size": "68mm x 85mm",
+      "filterType": "Spin-on",
+      "material": "Метал/Хартия"
+    }
+  },
+  {
+    "partNumber": "FIL-002",
+    "name": "Въздушен филтър",
+    "category": "Филтри",
+    "manufacturer": "Mann",
+    "price": 12.5,
+    "compatibleCars": ["VW", "Skoda", "Seat"],
+    "stockQuantity": 32,
+    "location": "A1-13",
+    "specifications": {
+      "size": "278mm x 168mm",
+      "filterType": "Панелен",
+      "material": "Хартия"
+    }
+  },
+  {
+    "partNumber": "BRK-001",
+    "name": "Предни спирачни накладки",
+    "category": "Спирачна система",
+    "manufacturer": "Brembo",
+    "price": 65.8,
+    "compatibleCars": ["BMW", "Audi", "Mercedes"],
+    "stockQuantity": 18,
+    "location": "B2-05",
+    "specifications": {
+      "thickness": "17mm",
+      "width": "129mm",
+      "material": "Керамика"
+    }
+  },
+  {
+    "partNumber": "BRK-002",
+    "name": "Задни спирачни дискове",
+    "category": "Спирачна система",
+    "manufacturer": "ATE",
+    "price": 89.9,
+    "compatibleCars": ["VW", "Audi", "Skoda"],
+    "stockQuantity": 12,
+    "location": "B2-08",
+    "specifications": {
+      "diameter": "288mm",
+      "thickness": "12mm",
+      "material": "Чугун"
+    }
+  },
+  {
+    "partNumber": "ENG-001",
+    "name": "Свещи",
+    "category": "Двигател",
+    "manufacturer": "NGK",
+    "price": 8.5,
+    "compatibleCars": ["Toyota", "Honda", "Mazda"],
+    "stockQuantity": 60,
+    "location": "C3-02",
+    "specifications": {
+      "gap": "0.8mm",
+      "heatRange": "5",
+      "threadSize": "14mm"
+    }
+  },
+  {
+    "partNumber": "ENG-002",
+    "name": "Ремък ГНП",
+    "category": "Двигател",
+    "manufacturer": "Continental",
+    "price": 45.2,
+    "compatibleCars": ["Opel", "Fiat", "Peugeot"],
+    "stockQuantity": 15,
+    "location": "C3-04",
+    "specifications": {
+      "length": "1254mm",
+      "width": "25mm",
+      "teeth": "124"
+    }
+  },
+  {
+    "partNumber": "ELE-001",
+    "name": "Акумулатор",
+    "category": "Електрическа система",
+    "manufacturer": "Varta",
+    "price": 125.0,
+    "compatibleCars": ["Ford", "Renault", "Citroen"],
+    "stockQuantity": 10,
+    "location": "D4-01",
+    "specifications": {
+      "voltage": "12V",
+      "capacity": "74Ah",
+      "coldCranking": "680A"
+    }
+  },
+  {
+    "partNumber": "ELE-002",
+    "name": "Алтернатор",
+    "category": "Електрическа система",
+    "manufacturer": "Bosch",
+    "price": 189.9,
+    "compatibleCars": ["BMW", "Mercedes"],
+    "stockQuantity": 5,
+    "location": "D4-03",
+    "specifications": {
+      "voltage": "14V",
+      "output": "120A",
+      "mounts": "B1"
+    }
+  },
+  {
+    "partNumber": "SUS-001",
+    "name": "Амортисьори",
+    "category": "Окачване",
+    "manufacturer": "Bilstein",
+    "price": 78.5,
+    "compatibleCars": ["BMW", "Audi"],
+    "stockQuantity": 8,
+    "location": "E5-02",
+    "specifications": {
+      "type": "Газови",
+      "travel": "140mm",
+      "mountType": "Standard"
+    }
+  },
+  {
+    "partNumber": "SUS-002",
+    "name": "Пружини",
+    "category": "Окачване",
+    "manufacturer": "Eibach",
+    "price": 120.0,
+    "compatibleCars": ["VW Golf", "Audi A3"],
+    "stockQuantity": 6,
+    "location": "E5-04",
+    "specifications": {
+      "length": "310mm",
+      "spring-rate": "35N/mm",
+      "type": "Прогресивни"
+    }
+  },
+  {
+    "partNumber": "FUL-001",
+    "name": "Горивна помпа",
+    "category": "Горивна система",
+    "manufacturer": "Bosch",
+    "price": 145.8,
+    "compatibleCars": ["Mercedes", "BMW", "Audi"],
+    "stockQuantity": 7,
+    "location": "F6-01",
+    "specifications": {
+      "pressure": "4 bar",
+      "flow": "190 l/h",
+      "type": "Електрическа"
+    }
+  },
+  {
+    "partNumber": "OIL-001",
+    "name": "Моторно масло 5W-40",
+    "category": "Масла и течности",
+    "manufacturer": "Castrol",
+    "price": 12.99,
+    "compatibleCars": ["Всички марки"],
+    "stockQuantity": 40,
+    "location": "G7-01",
+    "specifications": {
+      "viscosity": "5W-40",
+      "type": "Синтетично",
+      "volume": "1L"
+    }
+  },
+  {
+    "partNumber": "OIL-002",
+    "name": "Антифриз",
+    "category": "Масла и течности",
+    "manufacturer": "Prestone",
+    "price": 9.99,
+    "compatibleCars": ["Всички марки"],
+    "stockQuantity": 25,
+    "location": "G7-03",
+    "specifications": {
+      "color": "Зелен",
+      "freezingPoint": "-36°C",
+      "volume": "1L"
+    }
+  },
+  {
+    "partNumber": "TIR-001",
+    "name": "Летни гуми",
+    "category": "Гуми",
+    "manufacturer": "Michelin",
+    "price": 95.5,
+    "compatibleCars": ["Всички марки"],
+    "stockQuantity": 16,
+    "location": "H8-01",
+    "specifications": {
+      "size": "195/65R15",
+      "speedIndex": "H",
+      "loadIndex": "91"
+    }
+  },
+  {
+    "partNumber": "TIR-002",
+    "name": "Зимни гуми",
+    "category": "Гуми",
+    "manufacturer": "Continental",
+    "price": 105.8,
+    "compatibleCars": ["Всички марки"],
+    "stockQuantity": 20,
+    "location": "H8-02",
+    "specifications": {
+      "size": "205/55R16",
+      "speedIndex": "T",
+      "loadIndex": "91"
+    }
+  }
+]

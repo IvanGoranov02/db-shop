@@ -1,0 +1,218 @@
+[
+  {
+    "customerId": "C001",
+    "firstName": "Иван",
+    "lastName": "Петров",
+    "email": "ivan.petrov@example.com",
+    "phone": "0888123456",
+    "address": {
+      "street": "ул. Васил Левски 123",
+      "city": "София",
+      "postalCode": "1000",
+      "country": "България"
+    },
+    "registrationDate": "2022-01-15",
+    "loyaltyPoints": 350,
+    "customerType": "retail",
+    "carDetails": [
+      {
+        "make": "BMW",
+        "model": "320d",
+        "year": 2018,
+        "vin": "WBA8E9C50GK123456"
+      }
+    ]
+  },
+  {
+    "customerId": "C002",
+    "firstName": "Мария",
+    "lastName": "Иванова",
+    "email": "maria.ivanova@example.com",
+    "phone": "0889234567",
+    "address": {
+      "street": "бул. Христо Ботев 45",
+      "city": "Пловдив",
+      "postalCode": "4000",
+      "country": "България"
+    },
+    "registrationDate": "2022-02-20",
+    "loyaltyPoints": 120,
+    "customerType": "retail",
+    "carDetails": [
+      {
+        "make": "VW",
+        "model": "Golf",
+        "year": 2020,
+        "vin": "WVWZZZ1KZAW123456"
+      }
+    ]
+  },
+  {
+    "customerId": "C003",
+    "firstName": "Георги",
+    "lastName": "Димитров",
+    "email": "georgi.dimitrov@example.com",
+    "phone": "0877345678",
+    "address": {
+      "street": "ул. Шипка 78",
+      "city": "Варна",
+      "postalCode": "9000",
+      "country": "България"
+    },
+    "registrationDate": "2022-03-10",
+    "loyaltyPoints": 210,
+    "customerType": "retail",
+    "carDetails": [
+      {
+        "make": "Mercedes",
+        "model": "C200",
+        "year": 2019,
+        "vin": "WDD2050011R123456"
+      }
+    ]
+  },
+  {
+    "customerId": "C004",
+    "firstName": "Петър",
+    "lastName": "Колев",
+    "email": "petar.kolev@example.com",
+    "phone": "0898456789",
+    "address": {
+      "street": "бул. Цар Освободител 87",
+      "city": "Бургас",
+      "postalCode": "8000",
+      "country": "България"
+    },
+    "registrationDate": "2022-04-05",
+    "loyaltyPoints": 80,
+    "customerType": "retail",
+    "carDetails": [
+      {
+        "make": "Audi",
+        "model": "A4",
+        "year": 2017,
+        "vin": "WAUZZZ8K9HA123456"
+      }
+    ]
+  },
+  {
+    "customerId": "C005",
+    "firstName": "Димитър",
+    "lastName": "Стоянов",
+    "email": "dimitar.stoyanov@example.com",
+    "phone": "0899567890",
+    "address": {
+      "street": "ул. Георги Бенковски 34",
+      "city": "София",
+      "postalCode": "1000",
+      "country": "България"
+    },
+    "registrationDate": "2022-05-18",
+    "loyaltyPoints": 180,
+    "customerType": "retail",
+    "carDetails": [
+      {
+        "make": "Toyota",
+        "model": "Corolla",
+        "year": 2021,
+        "vin": "JTDDG23E123456789"
+      }
+    ]
+  },
+  {
+    "customerId": "C006",
+    "firstName": "Стефан",
+    "lastName": "Николов",
+    "email": "stefan.nikolov@example.com",
+    "phone": "0896678901",
+    "address": {
+      "street": "бул. България 56",
+      "city": "Пловдив",
+      "postalCode": "4000",
+      "country": "България"
+    },
+    "registrationDate": "2022-06-22",
+    "loyaltyPoints": 95,
+    "customerType": "retail",
+    "carDetails": [
+      {
+        "make": "Honda",
+        "model": "Civic",
+        "year": 2020,
+        "vin": "JHMEM55509S123456"
+      }
+    ]
+  },
+  {
+    "customerId": "C007",
+    "firstName": "Николай",
+    "lastName": "Георгиев",
+    "email": "nikolay.georgiev@example.com",
+    "phone": "0897789012",
+    "address": {
+      "street": "ул. Дунав 12",
+      "city": "Варна",
+      "postalCode": "9000",
+      "country": "България"
+    },
+    "registrationDate": "2022-07-14",
+    "loyaltyPoints": 320,
+    "customerType": "retail",
+    "carDetails": [
+      {
+        "make": "Opel",
+        "model": "Astra",
+        "year": 2019,
+        "vin": "W0LPC6EB1G6123456"
+      }
+    ]
+  },
+  {
+    "customerId": "C008",
+    "companyName": "Автосервиз Експрес",
+    "email": "info@autoservice-express.bg",
+    "phone": "0884112233",
+    "address": {
+      "street": "ул. Индустриална 5",
+      "city": "София",
+      "postalCode": "1000",
+      "country": "България"
+    },
+    "registrationDate": "2022-01-10",
+    "loyaltyPoints": 1250,
+    "customerType": "wholesale",
+    "vatNumber": "BG123456789"
+  },
+  {
+    "customerId": "C009",
+    "companyName": "Автомобили Стар",
+    "email": "office@autostar.bg",
+    "phone": "0885223344",
+    "address": {
+      "street": "бул. Стефан Стамболов 78",
+      "city": "Пловдив",
+      "postalCode": "4000",
+      "country": "България"
+    },
+    "registrationDate": "2022-02-15",
+    "loyaltyPoints": 980,
+    "customerType": "wholesale",
+    "vatNumber": "BG234567890"
+  },
+  {
+    "customerId": "C010",
+    "companyName": "Автосервиз Перфект",
+    "email": "contact@perfect-auto.bg",
+    "phone": "0886334455",
+    "address": {
+      "street": "ул. Заводска 17",
+      "city": "Бургас",
+      "postalCode": "8000",
+      "country": "България"
+    },
+    "registrationDate": "2022-03-20",
+    "loyaltyPoints": 870,
+    "customerType": "wholesale",
+    "vatNumber": "BG345678901"
+  }
+]
