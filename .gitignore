@@ -36,3 +36,4 @@ temp/
 
 # Custom project directories
 .qodo/
+.qodo
